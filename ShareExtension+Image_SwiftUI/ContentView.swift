@@ -22,3 +22,9 @@ struct ContentView: View {
 #Preview {
     ContentView()
 }
+
+
+/*
+ Main Resource
+ https://badrinathvm.medium.com/ios-share-and-action-extensions-0781df151d78
+ */
